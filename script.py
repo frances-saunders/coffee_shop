@@ -1,4 +1,4 @@
-# Define your functions
+# Define functions
 def coffee_bot():
   print("Welcome to the cafe!")
   size = get_size()
